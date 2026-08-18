@@ -1,0 +1,432 @@
+[2025-03-27 01:00:44] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:00:44 AM [] []
+[2025-03-27 01:05:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:05:29 AM [] []
+[2025-03-27 01:10:19] SlimMonoLogger.ERROR: Requests_Exception: cURL error 56: Recv failure: Connection reset by peer in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-27 01:10:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:10:29 AM [] []
+[2025-03-27 01:15:26] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:15:26 AM [] []
+[2025-03-27 01:20:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:20:33 AM [] []
+[2025-03-27 01:25:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:25:31 AM [] []
+[2025-03-27 01:30:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:30:29 AM [] []
+[2025-03-27 01:35:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:35:36 AM [] []
+[2025-03-27 01:40:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:40:28 AM [] []
+[2025-03-27 01:45:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:45:28 AM [] []
+[2025-03-27 01:50:25] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:50:25 AM [] []
+[2025-03-27 01:55:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:55:32 AM [] []
+[2025-03-27 02:00:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:00:32 AM [] []
+[2025-03-27 02:05:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:05:32 AM [] []
+[2025-03-27 02:10:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:10:33 AM [] []
+[2025-03-27 02:15:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:15:27 AM [] []
+[2025-03-27 02:20:24] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:20:24 AM [] []
+[2025-03-27 02:25:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:25:27 AM [] []
+[2025-03-27 02:30:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:30:29 AM [] []
+[2025-03-27 02:35:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:35:27 AM [] []
+[2025-03-27 02:40:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:40:34 AM [] []
+[2025-03-27 02:45:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:45:27 AM [] []
+[2025-03-27 02:50:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:50:27 AM [] []
+[2025-03-27 02:55:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:55:33 AM [] []
+[2025-03-27 03:00:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:00:31 AM [] []
+[2025-03-27 03:05:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:05:33 AM [] []
+[2025-03-27 03:10:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:10:29 AM [] []
+[2025-03-27 03:15:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:15:28 AM [] []
+[2025-03-27 03:21:10] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:21:10 AM [] []
+[2025-03-27 03:25:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:25:30 AM [] []
+[2025-03-27 03:30:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:30:36 AM [] []
+[2025-03-27 03:35:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:35:32 AM [] []
+[2025-03-27 03:40:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:40:28 AM [] []
+[2025-03-27 03:45:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:45:29 AM [] []
+[2025-03-27 03:50:26] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:50:26 AM [] []
+[2025-03-27 03:55:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:55:28 AM [] []
+[2025-03-27 04:00:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:00:33 AM [] []
+[2025-03-27 04:05:25] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:05:25 AM [] []
+[2025-03-27 04:10:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:10:29 AM [] []
+[2025-03-27 04:15:25] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:15:25 AM [] []
+[2025-03-27 04:20:26] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:20:26 AM [] []
+[2025-03-27 04:25:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:25:33 AM [] []
+[2025-03-27 04:30:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:30:31 AM [] []
+[2025-03-27 04:35:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:35:28 AM [] []
+[2025-03-27 04:40:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:40:31 AM [] []
+[2025-03-27 04:45:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:45:29 AM [] []
+[2025-03-27 04:50:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:50:28 AM [] []
+[2025-03-27 04:55:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:55:28 AM [] []
+[2025-03-27 05:00:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:00:34 AM [] []
+[2025-03-27 05:05:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:05:32 AM [] []
+[2025-03-27 05:10:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:10:28 AM [] []
+[2025-03-27 05:15:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:15:28 AM [] []
+[2025-03-27 05:20:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:20:27 AM [] []
+[2025-03-27 05:25:45] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:25:45 AM [] []
+[2025-03-27 05:30:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:30:27 AM [] []
+[2025-03-27 05:35:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:35:31 AM [] []
+[2025-03-27 05:40:26] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:40:26 AM [] []
+[2025-03-27 05:45:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:45:31 AM [] []
+[2025-03-27 05:50:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:50:36 AM [] []
+[2025-03-27 05:55:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:55:32 AM [] []
+[2025-03-27 06:00:43] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:00:43 AM [] []
+[2025-03-27 06:06:24] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:06:24 AM [] []
+[2025-03-27 06:10:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:10:33 AM [] []
+[2025-03-27 06:15:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:15:30 AM [] []
+[2025-03-27 06:20:42] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:20:42 AM [] []
+[2025-03-27 06:25:26] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:25:26 AM [] []
+[2025-03-27 06:30:25] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:30:25 AM [] []
+[2025-03-27 06:35:41] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:35:41 AM [] []
+[2025-03-27 06:40:20] SlimMonoLogger.ERROR: PDOException: SQLSTATE[HY000]: General error: 2006 Server has gone away in /home/latihtal/public_html/agregator1/src/framework/PDO/Statement/StatementContainer.php:518
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/framework/PDO/Statement/StatementContainer.php(518): PDO->prepare()
+#1 /home/latihtal/public_html/agregator1/src/framework/PDO/Statement/StatementContainer.php(428): Slim\PDO\Statement\StatementContainer->getStatement()
+#2 /home/latihtal/public_html/agregator1/src/framework/PDO/Statement/SelectStatement.php(411): Slim\PDO\Statement\StatementContainer->execute()
+#3 /home/latihtal/public_html/agregator1/src/models/Model.php(212): Slim\PDO\Statement\SelectStatement->execute()
+#4 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(546): spark\models\Model->countRows()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#6 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#7 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#8 [internal function]: Slim\Route->Slim\{closure}()
+#9 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#10 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#11 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#13 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#14 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#16 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#17 {main} [] []
+[2025-03-27 06:45:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:45:27 AM [] []
+[2025-03-27 06:50:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:50:32 AM [] []
+[2025-03-27 06:55:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:55:29 AM [] []
+[2025-03-27 07:00:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:00:33 AM [] []
+[2025-03-27 07:05:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:05:28 AM [] []
+[2025-03-27 07:10:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:10:29 AM [] []
+[2025-03-27 07:15:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:15:36 AM [] []
+[2025-03-27 07:20:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:20:29 AM [] []
+[2025-03-27 07:25:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:25:32 AM [] []
+[2025-03-27 07:30:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:30:27 AM [] []
+[2025-03-27 07:35:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:35:27 AM [] []
+[2025-03-27 07:41:08] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:41:08 AM [] []
+[2025-03-27 07:45:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:45:28 AM [] []
+[2025-03-27 07:50:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:50:28 AM [] []
+[2025-03-27 07:55:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:55:28 AM [] []
+[2025-03-27 08:00:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:00:29 AM [] []
+[2025-03-27 08:05:38] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:05:38 AM [] []
+[2025-03-27 08:10:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:10:36 AM [] []
+[2025-03-27 08:15:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:15:32 AM [] []
+[2025-03-27 08:25:37] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:25:37 AM [] []
+[2025-03-27 08:30:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:30:32 AM [] []
+[2025-03-27 08:35:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:35:32 AM [] []
+[2025-03-27 08:40:38] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:40:38 AM [] []
+[2025-03-27 08:45:38] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:45:38 AM [] []
+[2025-03-27 08:50:47] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:50:47 AM [] []
+[2025-03-27 08:55:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:55:34 AM [] []
+[2025-03-27 09:00:43] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:00:43 AM [] []
+[2025-03-27 09:05:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:05:35 AM [] []
+[2025-03-27 09:10:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:10:33 AM [] []
+[2025-03-27 09:15:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:15:35 AM [] []
+[2025-03-27 09:20:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:20:34 AM [] []
+[2025-03-27 09:25:43] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:25:43 AM [] []
+[2025-03-27 09:30:38] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:30:38 AM [] []
+[2025-03-27 09:35:40] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:35:40 AM [] []
+[2025-03-27 09:40:39] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:40:39 AM [] []
+[2025-03-27 09:45:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:45:36 AM [] []
+[2025-03-27 09:50:44] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:50:44 AM [] []
+[2025-03-27 09:55:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:55:34 AM [] []
+[2025-03-27 10:00:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:00:35 AM [] []
+[2025-03-27 10:05:37] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:05:37 AM [] []
+[2025-03-27 10:10:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:10:28 AM [] []
+[2025-03-27 10:15:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:15:31 AM [] []
+[2025-03-27 10:20:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:20:34 AM [] []
+[2025-03-27 10:25:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:25:28 AM [] []
+[2025-03-27 10:30:37] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:30:37 AM [] []
+[2025-03-27 10:35:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:35:35 AM [] []
+[2025-03-27 10:40:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:40:36 AM [] []
+[2025-03-27 10:45:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:45:32 AM [] []
+[2025-03-27 10:50:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:50:31 AM [] []
+[2025-03-27 10:55:50] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:55:50 AM [] []
+[2025-03-27 11:01:19] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:01:19 AM [] []
+[2025-03-27 11:05:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:05:33 AM [] []
+[2025-03-27 11:10:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:10:34 AM [] []
+[2025-03-27 11:15:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:15:33 AM [] []
+[2025-03-27 11:20:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:20:35 AM [] []
+[2025-03-27 11:25:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:25:35 AM [] []
+[2025-03-27 11:30:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:30:28 AM [] []
+[2025-03-27 11:35:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:35:30 AM [] []
+[2025-03-27 11:40:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:40:31 AM [] []
+[2025-03-27 11:45:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:45:28 AM [] []
+[2025-03-27 11:50:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:50:29 AM [] []
+[2025-03-27 11:55:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:55:31 AM [] []
+[2025-03-27 12:00:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:00:35 PM [] []
+[2025-03-27 12:05:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:05:29 PM [] []
+[2025-03-27 12:10:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:10:34 PM [] []
+[2025-03-27 12:15:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:15:32 PM [] []
+[2025-03-27 12:20:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:20:33 PM [] []
+[2025-03-27 12:26:05] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:26:05 PM [] []
+[2025-03-27 12:30:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:30:30 PM [] []
+[2025-03-27 12:35:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:35:30 PM [] []
+[2025-03-27 12:40:26] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:40:26 PM [] []
+[2025-03-27 12:45:38] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:45:38 PM [] []
+[2025-03-27 12:50:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:50:33 PM [] []
+[2025-03-27 12:55:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 12:55:33 PM [] []
+[2025-03-27 13:00:41] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:00:41 PM [] []
+[2025-03-27 13:05:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:05:28 PM [] []
+[2025-03-27 13:10:40] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:10:40 PM [] []
+[2025-03-27 13:15:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:15:30 PM [] []
+[2025-03-27 13:20:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:20:35 PM [] []
+[2025-03-27 13:25:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:25:29 PM [] []
+[2025-03-27 13:30:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:30:29 PM [] []
+[2025-03-27 13:35:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:35:28 PM [] []
+[2025-03-27 13:40:37] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:40:37 PM [] []
+[2025-03-27 13:45:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:45:35 PM [] []
+[2025-03-27 13:50:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:50:32 PM [] []
+[2025-03-27 13:56:09] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 01:56:09 PM [] []
+[2025-03-27 14:00:48] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:00:48 PM [] []
+[2025-03-27 14:05:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:05:33 PM [] []
+[2025-03-27 14:10:50] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:10:50 PM [] []
+[2025-03-27 14:15:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:15:33 PM [] []
+[2025-03-27 14:20:37] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:20:37 PM [] []
+[2025-03-27 14:25:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:25:28 PM [] []
+[2025-03-27 14:30:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:30:31 PM [] []
+[2025-03-27 14:35:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:35:28 PM [] []
+[2025-03-27 14:42:25] SlimMonoLogger.ERROR: Requests_Exception: cURL error 28: Failed to connect to antropol.mk port 443 after 129404 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-27 14:42:42] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:42:42 PM [] []
+[2025-03-27 14:45:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:45:36 PM [] []
+[2025-03-27 14:50:40] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:50:40 PM [] []
+[2025-03-27 14:55:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 02:55:28 PM [] []
+[2025-03-27 15:01:41] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:01:41 PM [] []
+[2025-03-27 15:05:39] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:05:39 PM [] []
+[2025-03-27 15:10:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:10:31 PM [] []
+[2025-03-27 15:15:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:15:33 PM [] []
+[2025-03-27 15:20:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:20:35 PM [] []
+[2025-03-27 15:25:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:25:28 PM [] []
+[2025-03-27 15:30:44] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:30:44 PM [] []
+[2025-03-27 15:35:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:35:35 PM [] []
+[2025-03-27 15:40:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:40:33 PM [] []
+[2025-03-27 15:45:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:45:31 PM [] []
+[2025-03-27 15:50:41] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:50:41 PM [] []
+[2025-03-27 15:55:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 03:55:28 PM [] []
+[2025-03-27 16:00:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:00:31 PM [] []
+[2025-03-27 16:05:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:05:33 PM [] []
+[2025-03-27 16:10:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:10:32 PM [] []
+[2025-03-27 16:15:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:15:29 PM [] []
+[2025-03-27 16:20:40] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:20:40 PM [] []
+[2025-03-27 16:25:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:25:31 PM [] []
+[2025-03-27 16:30:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:30:32 PM [] []
+[2025-03-27 16:35:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:35:31 PM [] []
+[2025-03-27 16:40:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:40:34 PM [] []
+[2025-03-27 16:45:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:45:32 PM [] []
+[2025-03-27 16:50:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:50:33 PM [] []
+[2025-03-27 16:55:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 04:55:28 PM [] []
+[2025-03-27 17:00:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:00:33 PM [] []
+[2025-03-27 17:05:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:05:33 PM [] []
+[2025-03-27 17:10:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:10:28 PM [] []
+[2025-03-27 17:15:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:15:30 PM [] []
+[2025-03-27 17:20:22] SlimMonoLogger.ERROR: Requests_Exception: cURL error 35: Recv failure: Connection reset by peer in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-27 17:20:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:20:30 PM [] []
+[2025-03-27 17:25:39] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:25:39 PM [] []
+[2025-03-27 17:30:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:30:36 PM [] []
+[2025-03-27 17:35:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:35:36 PM [] []
+[2025-03-27 17:40:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:40:34 PM [] []
+[2025-03-27 17:45:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:45:35 PM [] []
+[2025-03-27 17:50:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:50:29 PM [] []
+[2025-03-27 17:55:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 05:55:31 PM [] []
+[2025-03-27 18:00:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:00:36 PM [] []
+[2025-03-27 18:05:13] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:05:13 PM [] []
+[2025-03-27 18:10:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:10:27 PM [] []
+[2025-03-27 18:15:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:15:32 PM [] []
+[2025-03-27 18:20:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:20:28 PM [] []
+[2025-03-27 18:25:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:25:31 PM [] []
+[2025-03-27 18:30:31] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:30:31 PM [] []
+[2025-03-27 18:35:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:35:27 PM [] []
+[2025-03-27 18:40:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:40:29 PM [] []
+[2025-03-27 18:45:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:45:27 PM [] []
+[2025-03-27 18:50:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:50:30 PM [] []
+[2025-03-27 18:55:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 06:55:29 PM [] []
+[2025-03-27 19:00:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:00:32 PM [] []
+[2025-03-27 19:05:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:05:33 PM [] []
+[2025-03-27 19:10:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:10:36 PM [] []
+[2025-03-27 19:15:40] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:15:40 PM [] []
+[2025-03-27 19:20:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:20:33 PM [] []
+[2025-03-27 19:25:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:25:33 PM [] []
+[2025-03-27 19:30:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:30:32 PM [] []
+[2025-03-27 19:35:45] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:35:45 PM [] []
+[2025-03-27 19:40:42] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:40:42 PM [] []
+[2025-03-27 19:45:45] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:45:45 PM [] []
+[2025-03-27 19:50:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:50:36 PM [] []
+[2025-03-27 19:55:39] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 07:55:39 PM [] []
+[2025-03-27 20:00:42] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:00:42 PM [] []
+[2025-03-27 20:05:48] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:05:48 PM [] []
+[2025-03-27 20:11:00] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:11:00 PM [] []
+[2025-03-27 20:15:47] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:15:47 PM [] []
+[2025-03-27 20:21:00] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:21:00 PM [] []
+[2025-03-27 20:25:57] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:25:57 PM [] []
+[2025-03-27 20:31:14] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:31:14 PM [] []
+[2025-03-27 20:36:19] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:36:19 PM [] []
+[2025-03-27 20:40:57] SlimMonoLogger.ERROR: Requests_Exception: cURL error 35: Recv failure: Connection reset by peer in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-27 20:40:59] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:40:59 PM [] []
+[2025-03-27 20:46:06] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:46:06 PM [] []
+[2025-03-27 20:51:12] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:51:12 PM [] []
+[2025-03-27 20:55:57] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 08:55:57 PM [] []
+[2025-03-27 21:00:57] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:00:57 PM [] []
+[2025-03-27 21:06:03] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:06:03 PM [] []
+[2025-03-27 21:10:51] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:10:51 PM [] []
+[2025-03-27 21:15:38] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:15:38 PM [] []
+[2025-03-27 21:20:44] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:20:44 PM [] []
+[2025-03-27 21:25:39] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:25:39 PM [] []
+[2025-03-27 21:30:42] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:30:42 PM [] []
+[2025-03-27 21:35:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:35:36 PM [] []
+[2025-03-27 21:40:32] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:40:32 PM [] []
+[2025-03-27 21:45:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:45:36 PM [] []
+[2025-03-27 21:50:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:50:36 PM [] []
+[2025-03-27 21:55:24] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 09:55:24 PM [] []
+[2025-03-27 22:00:35] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:00:35 PM [] []
+[2025-03-27 22:05:24] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:05:24 PM [] []
+[2025-03-27 22:10:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:10:34 PM [] []
+[2025-03-27 22:15:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:15:27 PM [] []
+[2025-03-27 22:20:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:20:28 PM [] []
+[2025-03-27 22:25:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:25:29 PM [] []
+[2025-03-27 22:30:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:30:27 PM [] []
+[2025-03-27 22:35:42] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:35:42 PM [] []
+[2025-03-27 22:40:25] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:40:25 PM [] []
+[2025-03-27 22:45:36] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:45:36 PM [] []
+[2025-03-27 22:50:34] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:50:34 PM [] []
+[2025-03-27 22:55:25] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 10:55:25 PM [] []
+[2025-03-27 23:00:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:00:28 PM [] []
+[2025-03-27 23:05:27] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:05:27 PM [] []
+[2025-03-27 23:10:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:10:30 PM [] []
+[2025-03-27 23:15:33] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:15:33 PM [] []
+[2025-03-27 23:20:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:20:28 PM [] []
+[2025-03-27 23:25:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:25:28 PM [] []
+[2025-03-27 23:30:28] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:30:28 PM [] []
+[2025-03-27 23:35:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:35:29 PM [] []
+[2025-03-27 23:40:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:40:29 PM [] []
+[2025-03-27 23:45:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:45:30 PM [] []
+[2025-03-27 23:50:30] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:50:30 PM [] []
+[2025-03-27 23:55:29] SlimMonoLogger.INFO: Cron ran at: 27-03-2025 11:55:29 PM [] []
+[2025-03-28 00:00:33] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:00:33 AM [] []
+[2025-03-28 00:05:26] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:05:26 AM [] []
+[2025-03-28 00:11:02] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:11:02 AM [] []
+[2025-03-28 00:15:27] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:15:27 AM [] []
+[2025-03-28 00:22:24] SlimMonoLogger.ERROR: Requests_Exception: cURL error 28: Failed to connect to antropol.mk port 443 after 131219 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-28 00:22:41] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:22:41 AM [] []
+[2025-03-28 00:25:27] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:25:27 AM [] []
+[2025-03-28 00:30:58] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:30:58 AM [] []
+[2025-03-28 00:35:35] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:35:35 AM [] []
+[2025-03-28 00:40:25] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:40:25 AM [] []
+[2025-03-28 00:45:28] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:45:28 AM [] []
+[2025-03-28 00:50:27] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:50:27 AM [] []
+[2025-03-28 00:57:25] SlimMonoLogger.ERROR: Requests_Exception: cURL error 28: Failed to connect to antropol.mk port 443 after 131885 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-28 00:57:42] SlimMonoLogger.INFO: Cron ran at: 28-03-2025 12:57:42 AM [] []

@@ -1,0 +1,38 @@
+[2026-07-28 18:36:57] SlimMonoLogger.CRITICAL: PDOException: SQLSTATE[HY000] [1049] Unknown database 'agregator1' in C:\xampp\htdocs\agregator1\src\framework\PDO\Database.php:34
+Stack trace:
+#0 C:\xampp\htdocs\agregator1\src\framework\PDO\Database.php(34): PDO->__construct('mysql:host=loca...', 'juzer', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\agregator1\src\dependencies.php(73): Slim\PDO\Database->__construct('mysql:host=loca...', 'juzer', '000000')
+#2 C:\xampp\htdocs\agregator1\src\framework\Helper\Set.php(231): {closure}(Object(Slim\Helper\Set))
+#3 C:\xampp\htdocs\agregator1\src\framework\Helper\Set.php(88): Slim\Helper\Set->Slim\Helper\{closure}(Object(Slim\Helper\Set))
+#4 C:\xampp\htdocs\agregator1\src\framework\Slim.php(232): Slim\Helper\Set->get('db')
+#5 C:\xampp\htdocs\agregator1\src\models\Model.php(176): Slim\Slim->__get('db')
+#6 C:\xampp\htdocs\agregator1\src\models\OptionModel.php(180): spark\models\Model->select(Array)
+#7 C:\xampp\htdocs\agregator1\src\models\OptionModel.php(40): spark\models\OptionModel->autoloadOptions()
+#8 C:\xampp\htdocs\agregator1\src\dependencies.php(99): spark\models\OptionModel->__construct()
+#9 C:\xampp\htdocs\agregator1\src\framework\Helper\Set.php(231): {closure}(Object(Slim\Helper\Set))
+#10 C:\xampp\htdocs\agregator1\src\framework\Helper\Set.php(88): Slim\Helper\Set->Slim\Helper\{closure}(Object(Slim\Helper\Set))
+#11 C:\xampp\htdocs\agregator1\src\framework\Slim.php(232): Slim\Helper\Set->get('options')
+#12 C:\xampp\htdocs\agregator1\src\drivers\Views\ThemeManager.php(34): Slim\Slim->__get('options')
+#13 C:\xampp\htdocs\agregator1\src\dependencies.php(142): spark\drivers\Views\ThemeManager->initEngine()
+#14 C:\xampp\htdocs\agregator1\src\bootstrap.php(68): require('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\agregator1\index.php(4): require('C:\\xampp\\htdocs...')
+#16 {main} [] []
+[2026-07-28 18:36:57] SlimMonoLogger.CRITICAL: PDOException: SQLSTATE[HY000] [1049] Unknown database 'agregator1' in C:\xampp\htdocs\agregator1\src\framework\PDO\Database.php:34
+Stack trace:
+#0 C:\xampp\htdocs\agregator1\src\framework\PDO\Database.php(34): PDO->__construct('mysql:host=loca...', 'juzer', Object(SensitiveParameterValue), Array)
+#1 C:\xampp\htdocs\agregator1\src\dependencies.php(73): Slim\PDO\Database->__construct('mysql:host=loca...', 'juzer', '000000')
+#2 C:\xampp\htdocs\agregator1\src\framework\Helper\Set.php(231): {closure}(Object(Slim\Helper\Set))
+#3 C:\xampp\htdocs\agregator1\src\framework\Helper\Set.php(88): Slim\Helper\Set->Slim\Helper\{closure}(Object(Slim\Helper\Set))
+#4 C:\xampp\htdocs\agregator1\src\framework\Slim.php(232): Slim\Helper\Set->get('db')
+#5 C:\xampp\htdocs\agregator1\src\models\Model.php(176): Slim\Slim->__get('db')
+#6 C:\xampp\htdocs\agregator1\src\models\OptionModel.php(180): spark\models\Model->select(Array)
+#7 C:\xampp\htdocs\agregator1\src\models\OptionModel.php(40): spark\models\OptionModel->autoloadOptions()
+#8 C:\xampp\htdocs\agregator1\src\dependencies.php(99): spark\models\OptionModel->__construct()
+#9 C:\xampp\htdocs\agregator1\src\framework\Helper\Set.php(231): {closure}(Object(Slim\Helper\Set))
+#10 C:\xampp\htdocs\agregator1\src\framework\Helper\Set.php(88): Slim\Helper\Set->Slim\Helper\{closure}(Object(Slim\Helper\Set))
+#11 C:\xampp\htdocs\agregator1\src\framework\Slim.php(232): Slim\Helper\Set->get('options')
+#12 C:\xampp\htdocs\agregator1\src\drivers\Views\ThemeManager.php(34): Slim\Slim->__get('options')
+#13 C:\xampp\htdocs\agregator1\src\dependencies.php(142): spark\drivers\Views\ThemeManager->initEngine()
+#14 C:\xampp\htdocs\agregator1\src\bootstrap.php(68): require('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\agregator1\index.php(4): require('C:\\xampp\\htdocs...')
+#16 {main} [] []

@@ -1,0 +1,32 @@
+FEATURE IMAGE    
+
+C:\xampp\htdocs\agregator1\src\drivers\Http\RssImporter.php
+ linija 166
+
+Feature image detection location
+The key check is in RssImporter.php:
+
+Line 139: $post['post_featured_image'] = $this->getFeaturedImage($item);
+Line 160: if (empty($post['post_featured_image'])) {
+Line 166: fallback from <img> tag content
+Line 172: feed_ignore_without_image skip logic
+Line 257: protected function getFeaturedImage(SimplePie_Item $item)
+Line 498: fallback updated by Readability->getImage()
+So the main detection flow is:
+
+try getFeaturedImage()
+if empty, parse first <img> from content
+if still empty and required, skip the item
+some fulltext parsing can also set post_featured_image at line 498
+
+// Last attempt at finding featured image
+            if (empty($post['post_featured_image'])) {
+                preg_match('/<img.+src=[\'"]([^\'"]+)[\'"].*>/', (string)$post['post_content'], $m);
+
+                if (isset($m[1])) {
+                    $ext = trim(pathinfo($m[1], PATHINFO_EXTENSION));
+                    if (!empty($ext)) {
+                        $post['post_featured_image'] = trim($m[1]);
+                    }
+                }
+            }

@@ -1,0 +1,729 @@
+[2025-03-02 01:00:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:00:39 AM [] []
+[2025-03-02 01:05:44] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:05:44 AM [] []
+[2025-03-02 01:10:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:10:42 AM [] []
+[2025-03-02 01:15:40] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:15:40 AM [] []
+[2025-03-02 01:20:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:20:39 AM [] []
+[2025-03-02 01:25:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:25:37 AM [] []
+[2025-03-02 01:30:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:30:42 AM [] []
+[2025-03-02 01:35:41] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:35:41 AM [] []
+[2025-03-02 01:40:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:40:38 AM [] []
+[2025-03-02 01:45:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:45:37 AM [] []
+[2025-03-02 01:50:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:50:39 AM [] []
+[2025-03-02 01:55:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:55:34 AM [] []
+[2025-03-02 02:00:41] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:00:41 AM [] []
+[2025-03-02 02:05:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:05:38 AM [] []
+[2025-03-02 02:10:43] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:10:43 AM [] []
+[2025-03-02 02:15:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:15:33 AM [] []
+[2025-03-02 02:20:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:20:39 AM [] []
+[2025-03-02 02:25:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:25:33 AM [] []
+[2025-03-02 02:30:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:30:37 AM [] []
+[2025-03-02 02:35:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:35:31 AM [] []
+[2025-03-02 02:40:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:40:33 AM [] []
+[2025-03-02 02:45:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:45:37 AM [] []
+[2025-03-02 02:50:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:50:37 AM [] []
+[2025-03-02 02:55:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:55:34 AM [] []
+[2025-03-02 03:00:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:00:42 AM [] []
+[2025-03-02 03:05:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:05:36 AM [] []
+[2025-03-02 03:10:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:10:31 AM [] []
+[2025-03-02 03:15:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:15:31 AM [] []
+[2025-03-02 03:20:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:20:35 AM [] []
+[2025-03-02 03:25:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:25:33 AM [] []
+[2025-03-02 03:30:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:30:37 AM [] []
+[2025-03-02 03:35:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:35:38 AM [] []
+[2025-03-02 03:40:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:40:37 AM [] []
+[2025-03-02 03:45:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:45:34 AM [] []
+[2025-03-02 03:50:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:50:35 AM [] []
+[2025-03-02 03:55:53] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:55:53 AM [] []
+[2025-03-02 04:00:41] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:00:41 AM [] []
+[2025-03-02 04:05:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:05:34 AM [] []
+[2025-03-02 04:10:43] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:10:43 AM [] []
+[2025-03-02 04:15:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:15:36 AM [] []
+[2025-03-02 04:20:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:20:33 AM [] []
+[2025-03-02 04:25:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:25:32 AM [] []
+[2025-03-02 04:30:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:30:35 AM [] []
+[2025-03-02 04:35:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:35:32 AM [] []
+[2025-03-02 04:40:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:40:33 AM [] []
+[2025-03-02 04:45:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:45:31 AM [] []
+[2025-03-02 04:50:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:50:35 AM [] []
+[2025-03-02 04:55:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:55:33 AM [] []
+[2025-03-02 05:00:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:00:32 AM [] []
+[2025-03-02 05:05:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:05:30 AM [] []
+[2025-03-02 05:10:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:10:33 AM [] []
+[2025-03-02 05:15:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:15:33 AM [] []
+[2025-03-02 05:20:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:20:36 AM [] []
+[2025-03-02 05:25:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:25:36 AM [] []
+[2025-03-02 05:30:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:30:38 AM [] []
+[2025-03-02 05:35:45] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:35:45 AM [] []
+[2025-03-02 05:40:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:40:32 AM [] []
+[2025-03-02 05:45:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:45:32 AM [] []
+[2025-03-02 05:50:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:50:34 AM [] []
+[2025-03-02 05:55:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:55:32 AM [] []
+[2025-03-02 06:00:41] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:00:41 AM [] []
+[2025-03-02 06:05:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:05:31 AM [] []
+[2025-03-02 06:10:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:10:39 AM [] []
+[2025-03-02 06:15:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:15:34 AM [] []
+[2025-03-02 06:20:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:20:34 AM [] []
+[2025-03-02 06:25:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:25:36 AM [] []
+[2025-03-02 06:30:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:30:36 AM [] []
+[2025-03-02 06:35:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:35:42 AM [] []
+[2025-03-02 06:40:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:40:42 AM [] []
+[2025-03-02 06:45:41] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:45:41 AM [] []
+[2025-03-02 06:50:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:50:38 AM [] []
+[2025-03-02 06:55:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:55:31 AM [] []
+[2025-03-02 07:00:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:00:36 AM [] []
+[2025-03-02 07:05:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:05:36 AM [] []
+[2025-03-02 07:10:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:10:37 AM [] []
+[2025-03-02 07:15:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:15:35 AM [] []
+[2025-03-02 07:20:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:20:33 AM [] []
+[2025-03-02 07:25:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:25:34 AM [] []
+[2025-03-02 07:30:43] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:30:43 AM [] []
+[2025-03-02 07:35:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:35:37 AM [] []
+[2025-03-02 07:40:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:40:35 AM [] []
+[2025-03-02 07:45:41] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:45:41 AM [] []
+[2025-03-02 07:50:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:50:38 AM [] []
+[2025-03-02 07:55:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:55:38 AM [] []
+[2025-03-02 08:00:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:00:42 AM [] []
+[2025-03-02 08:05:23] SlimMonoLogger.ERROR: Requests_Exception: cURL error 52: Empty reply from server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-02 08:05:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:05:38 AM [] []
+[2025-03-02 08:10:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:10:35 AM [] []
+[2025-03-02 08:15:44] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:15:44 AM [] []
+[2025-03-02 08:20:45] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:20:45 AM [] []
+[2025-03-02 08:25:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:25:35 AM [] []
+[2025-03-02 08:30:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:30:38 AM [] []
+[2025-03-02 08:35:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:35:36 AM [] []
+[2025-03-02 08:40:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:40:38 AM [] []
+[2025-03-02 08:45:46] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:45:46 AM [] []
+[2025-03-02 08:50:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:50:36 AM [] []
+[2025-03-02 08:55:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:55:33 AM [] []
+[2025-03-02 09:00:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:00:39 AM [] []
+[2025-03-02 09:05:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:05:37 AM [] []
+[2025-03-02 09:10:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:10:42 AM [] []
+[2025-03-02 09:15:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:15:37 AM [] []
+[2025-03-02 09:20:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:20:32 AM [] []
+[2025-03-02 09:25:50] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:25:50 AM [] []
+[2025-03-02 09:30:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:30:32 AM [] []
+[2025-03-02 09:35:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:35:33 AM [] []
+[2025-03-02 09:40:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:40:39 AM [] []
+[2025-03-02 09:45:40] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:45:40 AM [] []
+[2025-03-02 09:50:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:50:32 AM [] []
+[2025-03-02 09:55:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:55:28 AM [] []
+[2025-03-02 10:00:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:00:32 AM [] []
+[2025-03-02 10:05:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:05:33 AM [] []
+[2025-03-02 10:10:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:10:32 AM [] []
+[2025-03-02 10:15:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:15:30 AM [] []
+[2025-03-02 10:20:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:20:27 AM [] []
+[2025-03-02 10:25:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:25:30 AM [] []
+[2025-03-02 10:30:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:30:34 AM [] []
+[2025-03-02 10:35:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:35:36 AM [] []
+[2025-03-02 10:40:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:40:42 AM [] []
+[2025-03-02 10:45:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:45:39 AM [] []
+[2025-03-02 10:50:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:50:37 AM [] []
+[2025-03-02 10:55:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:55:32 AM [] []
+[2025-03-02 11:00:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:00:37 AM [] []
+[2025-03-02 11:05:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:05:32 AM [] []
+[2025-03-02 11:10:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:10:31 AM [] []
+[2025-03-02 11:15:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:15:29 AM [] []
+[2025-03-02 11:20:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:20:33 AM [] []
+[2025-03-02 11:25:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:25:27 AM [] []
+[2025-03-02 11:30:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:30:38 AM [] []
+[2025-03-02 11:35:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:35:28 AM [] []
+[2025-03-02 11:40:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:40:30 AM [] []
+[2025-03-02 11:45:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:45:31 AM [] []
+[2025-03-02 11:50:26] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:50:26 AM [] []
+[2025-03-02 11:55:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:55:30 AM [] []
+[2025-03-02 12:00:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:00:29 PM [] []
+[2025-03-02 12:05:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:05:30 PM [] []
+[2025-03-02 12:10:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:10:27 PM [] []
+[2025-03-02 12:15:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:15:32 PM [] []
+[2025-03-02 12:20:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:20:28 PM [] []
+[2025-03-02 12:25:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:25:27 PM [] []
+[2025-03-02 12:30:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:30:31 PM [] []
+[2025-03-02 12:35:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:35:30 PM [] []
+[2025-03-02 12:40:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:40:32 PM [] []
+[2025-03-02 12:45:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:45:30 PM [] []
+[2025-03-02 12:50:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:50:36 PM [] []
+[2025-03-02 12:55:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 12:55:30 PM [] []
+[2025-03-02 13:00:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:00:35 PM [] []
+[2025-03-02 13:05:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:05:30 PM [] []
+[2025-03-02 13:10:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:10:32 PM [] []
+[2025-03-02 13:15:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:15:32 PM [] []
+[2025-03-02 13:20:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:20:37 PM [] []
+[2025-03-02 13:25:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:25:33 PM [] []
+[2025-03-02 13:30:40] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:30:40 PM [] []
+[2025-03-02 13:35:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:35:37 PM [] []
+[2025-03-02 13:40:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:40:30 PM [] []
+[2025-03-02 13:45:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:45:34 PM [] []
+[2025-03-02 13:50:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:50:34 PM [] []
+[2025-03-02 13:55:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 01:55:27 PM [] []
+[2025-03-02 14:00:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:00:31 PM [] []
+[2025-03-02 14:05:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:05:29 PM [] []
+[2025-03-02 14:10:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:10:29 PM [] []
+[2025-03-02 14:15:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:15:32 PM [] []
+[2025-03-02 14:20:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:20:33 PM [] []
+[2025-03-02 14:25:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:25:28 PM [] []
+[2025-03-02 14:30:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:30:32 PM [] []
+[2025-03-02 14:35:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:35:28 PM [] []
+[2025-03-02 14:40:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:40:27 PM [] []
+[2025-03-02 14:45:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:45:32 PM [] []
+[2025-03-02 14:50:26] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:50:26 PM [] []
+[2025-03-02 14:55:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 02:55:27 PM [] []
+[2025-03-02 15:00:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:00:30 PM [] []
+[2025-03-02 15:05:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:05:32 PM [] []
+[2025-03-02 15:10:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:10:33 PM [] []
+[2025-03-02 15:15:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:15:31 PM [] []
+[2025-03-02 15:20:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:20:31 PM [] []
+[2025-03-02 15:25:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:25:31 PM [] []
+[2025-03-02 15:30:54] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:30:54 PM [] []
+[2025-03-02 15:36:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:36:28 PM [] []
+[2025-03-02 15:40:55] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:40:55 PM [] []
+[2025-03-02 15:45:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:45:30 PM [] []
+[2025-03-02 15:50:26] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:50:26 PM [] []
+[2025-03-02 15:55:25] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 03:55:25 PM [] []
+[2025-03-02 16:00:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:00:27 PM [] []
+[2025-03-02 16:05:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:05:27 PM [] []
+[2025-03-02 16:10:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:10:29 PM [] []
+[2025-03-02 16:15:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:15:27 PM [] []
+[2025-03-02 16:20:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:20:30 PM [] []
+[2025-03-02 16:25:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:25:29 PM [] []
+[2025-03-02 16:30:41] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:30:41 PM [] []
+[2025-03-02 16:35:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:35:33 PM [] []
+[2025-03-02 16:40:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:40:42 PM [] []
+[2025-03-02 16:45:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:45:31 PM [] []
+[2025-03-02 16:50:27] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:50:27 PM [] []
+[2025-03-02 16:55:26] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 04:55:26 PM [] []
+[2025-03-02 17:00:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:00:37 PM [] []
+[2025-03-02 17:05:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:05:29 PM [] []
+[2025-03-02 17:10:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:10:29 PM [] []
+[2025-03-02 17:15:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:15:32 PM [] []
+[2025-03-02 17:20:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:20:34 PM [] []
+[2025-03-02 17:25:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:25:29 PM [] []
+[2025-03-02 17:30:41] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:30:41 PM [] []
+[2025-03-02 17:35:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:35:36 PM [] []
+[2025-03-02 17:40:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:40:29 PM [] []
+[2025-03-02 17:45:37] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:45:37 PM [] []
+[2025-03-02 17:50:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:50:32 PM [] []
+[2025-03-02 17:55:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 05:55:36 PM [] []
+[2025-03-02 18:00:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:00:30 PM [] []
+[2025-03-02 18:05:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:05:28 PM [] []
+[2025-03-02 18:10:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:10:29 PM [] []
+[2025-03-02 18:15:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:15:31 PM [] []
+[2025-03-02 18:20:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:20:31 PM [] []
+[2025-03-02 18:25:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:25:31 PM [] []
+[2025-03-02 18:30:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:30:28 PM [] []
+[2025-03-02 18:35:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:35:32 PM [] []
+[2025-03-02 18:40:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:40:29 PM [] []
+[2025-03-02 18:45:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:45:34 PM [] []
+[2025-03-02 18:50:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:50:33 PM [] []
+[2025-03-02 18:55:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 06:55:28 PM [] []
+[2025-03-02 19:00:40] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:00:40 PM [] []
+[2025-03-02 19:05:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:05:35 PM [] []
+[2025-03-02 19:10:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:10:32 PM [] []
+[2025-03-02 19:15:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:15:29 PM [] []
+[2025-03-02 19:20:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:20:30 PM [] []
+[2025-03-02 19:25:26] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:25:26 PM [] []
+[2025-03-02 19:30:28] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:30:28 PM [] []
+[2025-03-02 19:35:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:35:31 PM [] []
+[2025-03-02 19:40:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:40:33 PM [] []
+[2025-03-02 19:45:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:45:39 PM [] []
+[2025-03-02 19:50:43] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:50:43 PM [] []
+[2025-03-02 19:55:46] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 07:55:46 PM [] []
+[2025-03-02 20:01:05] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:01:05 PM [] []
+[2025-03-02 20:05:36] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:05:36 PM [] []
+[2025-03-02 20:10:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:10:34 PM [] []
+[2025-03-02 20:15:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:15:30 PM [] []
+[2025-03-02 20:20:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:20:35 PM [] []
+[2025-03-02 20:25:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:25:34 PM [] []
+[2025-03-02 20:30:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:30:32 PM [] []
+[2025-03-02 20:35:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:35:31 PM [] []
+[2025-03-02 20:40:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:40:33 PM [] []
+[2025-03-02 20:45:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:45:33 PM [] []
+[2025-03-02 20:50:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:50:30 PM [] []
+[2025-03-02 20:55:30] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 08:55:30 PM [] []
+[2025-03-02 21:00:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:00:42 PM [] []
+[2025-03-02 21:05:42] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:05:42 PM [] []
+[2025-03-02 21:10:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:10:31 PM [] []
+[2025-03-02 21:15:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:15:33 PM [] []
+[2025-03-02 21:20:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:20:32 PM [] []
+[2025-03-02 21:25:52] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:25:52 PM [] []
+[2025-03-02 21:30:38] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:30:38 PM [] []
+[2025-03-02 21:35:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:35:32 PM [] []
+[2025-03-02 21:40:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:40:32 PM [] []
+[2025-03-02 21:45:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:45:39 PM [] []
+[2025-03-02 21:50:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:50:33 PM [] []
+[2025-03-02 21:55:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 09:55:31 PM [] []
+[2025-03-02 22:00:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:00:35 PM [] []
+[2025-03-02 22:05:29] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:05:29 PM [] []
+[2025-03-02 22:10:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:10:39 PM [] []
+[2025-03-02 22:15:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:15:39 PM [] []
+[2025-03-02 22:20:31] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:20:31 PM [] []
+[2025-03-02 22:25:34] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:25:34 PM [] []
+[2025-03-02 22:30:39] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:30:39 PM [] []
+[2025-03-02 22:35:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:35:35 PM [] []
+[2025-03-02 22:40:33] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:40:33 PM [] []
+[2025-03-02 22:45:32] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:45:32 PM [] []
+[2025-03-02 22:50:35] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:50:35 PM [] []
+[2025-03-02 22:57:14] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 10:57:14 PM [] []
+[2025-03-02 23:02:15] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:02:15 PM [] []
+[2025-03-02 23:07:12] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:07:12 PM [] []
+[2025-03-02 23:11:58] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:11:58 PM [] []
+[2025-03-02 23:17:13] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:17:13 PM [] []
+[2025-03-02 23:21:59] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:21:59 PM [] []
+[2025-03-02 23:26:59] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:26:59 PM [] []
+[2025-03-02 23:32:01] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:32:01 PM [] []
+[2025-03-02 23:36:59] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:36:59 PM [] []
+[2025-03-02 23:42:05] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:42:05 PM [] []
+[2025-03-02 23:47:05] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:47:05 PM [] []
+[2025-03-02 23:51:58] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:51:58 PM [] []
+[2025-03-02 23:57:03] SlimMonoLogger.INFO: Cron ran at: 02-03-2025 11:57:03 PM [] []
+[2025-03-03 00:00:23] SlimMonoLogger.ERROR: Requests_Exception: cURL error 52: Empty reply from server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:23] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 179 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:24] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 179 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:24] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 180 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:24] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 181 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:24] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 176 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:24] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 182 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:25] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 193 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:25] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 182 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:25] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 180 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:25] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 181 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:25] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 178 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:25] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 175 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:26] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 177 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:26] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 182 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:26] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 172 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:26] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 175 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:26] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 173 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:27] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 180 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:00:27] SlimMonoLogger.ERROR: Requests_Exception: cURL error 7: Failed to connect to antropol.mk port 443 after 181 ms: Could not connect to server in /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php:422
+Stack trace:
+#0 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Transport/cURL.php(177): Requests_Transport_cURL->process_response()
+#1 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests.php(379): Requests_Transport_cURL->request()
+#2 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(205): Requests::request()
+#3 /home/latihtal/public_html/agregator1/src/vendor/rmccue/requests/library/Requests/Session.php(132): Requests_Session->request()
+#4 /home/latihtal/public_html/agregator1/src/drivers/Http/RssImporter.php(144): Requests_Session->get()
+#5 /home/latihtal/public_html/agregator1/src/controllers/Dashboard/DashboardFeedsController.php(534): spark\drivers\Http\RssImporter->fetchPosts()
+#6 /home/latihtal/public_html/agregator1/src/controllers/Site/SiteController.php(722): spark\controllers\Dashboard\DashboardFeedsController::importFeedPosts()
+#7 [internal function]: spark\controllers\Site\SiteController->runTasks()
+#8 /home/latihtal/public_html/agregator1/src/framework/Route.php(173): call_user_func_array()
+#9 [internal function]: Slim\Route->Slim\{closure}()
+#10 /home/latihtal/public_html/agregator1/src/framework/Route.php(468): call_user_func_array()
+#11 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#12 /home/latihtal/public_html/agregator1/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#13 /home/latihtal/public_html/agregator1/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#14 /home/latihtal/public_html/agregator1/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#15 /home/latihtal/public_html/agregator1/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#16 /home/latihtal/public_html/agregator1/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#17 /home/latihtal/public_html/agregator1/index.php(6): Slim\Slim->run()
+#18 {main} [] []
+[2025-03-03 00:01:49] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:01:49 AM [] []
+[2025-03-03 00:06:59] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:06:59 AM [] []
+[2025-03-03 00:11:57] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:11:57 AM [] []
+[2025-03-03 00:16:58] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:16:58 AM [] []
+[2025-03-03 00:21:57] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:21:57 AM [] []
+[2025-03-03 00:27:03] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:27:03 AM [] []
+[2025-03-03 00:32:05] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:32:05 AM [] []
+[2025-03-03 00:37:03] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:37:03 AM [] []
+[2025-03-03 00:42:01] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:42:01 AM [] []
+[2025-03-03 00:47:01] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:47:01 AM [] []
+[2025-03-03 00:52:02] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:52:02 AM [] []
+[2025-03-03 00:56:59] SlimMonoLogger.INFO: Cron ran at: 03-03-2025 12:56:59 AM [] []

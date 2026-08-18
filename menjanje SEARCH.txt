@@ -1,0 +1,7 @@
+  C:\Users\bng04\Desktop\agregator1\site\themes\default\partials\nav\header.php (1 hit)
+  
+ MENJAS   <form method="get" action="<?= e_attr(url_for('site.search')); ?>" id="searchForm" class="home-search-box">
+ 
+ SITE.SEARSH SO SITE.ARCHIVE
+ 
+ 	Line 30:     <form method="get" action="<?php echo e_attr(url_for('site.archive')); ?>">
